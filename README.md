@@ -13,6 +13,6 @@ I WANT to be able to delete notes I've written before
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
-Check it out peeps!
+## Check it out peeps!
 
 https://radiant-castle-61011.herokuapp.com/
